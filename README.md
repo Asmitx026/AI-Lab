@@ -27,3 +27,5 @@ This repository contains all the assignments and projects i have performed in my
 - Day 9 (08.09.26) ➜ `Classification using Decision Trees`
   - Predict values for a simple dataset using `DecisionTreeClassifier`
   - Perform classification on the iris dataset using `DecisionTreeClassifier`
+- Day 10 (15.09.26) ➜ `Classification using Support Vector Machines`
+  - Perform classification on the iris dataset using `SupportVectorClassifier`
